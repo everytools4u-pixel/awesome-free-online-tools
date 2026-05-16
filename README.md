@@ -1,4 +1,7 @@
-# Awesome Free Online Tools
+
+
+## All-in-One Platforms
+- EveryTool4U - https://everytool4u.com - 108 free browser-based tools: merge/split/compress/sign PDF, remove background, video to GIF, QR codes, invoices. Files never leave your device.# Awesome Free Online Tools
 
 A curated list of useful online tools for developers, students, and everyday users.
 
