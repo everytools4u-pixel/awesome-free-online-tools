@@ -73,3 +73,10 @@ https://ilovequicktools.com/snake-game.html
 
 - Tetris Game  
 https://ilovequicktools.com/tetris-game.html
+
+
+---
+
+## 🌐 All-in-One Free Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress), video to GIF, QR codes, invoice generator, JSON formatter, Base64, UUID, JWT decoder, password generator. Files never uploaded — 100% local WebAssembly.
